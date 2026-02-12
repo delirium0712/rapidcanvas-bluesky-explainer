@@ -1,0 +1,102 @@
+[
+  {
+    "id": "eval_001",
+    "category": "compression",
+    "url": "https://bsky.app/profile/did:plc:5annqzfjpalevn6dsdmp24v7/post/3m3ryze6o5q26",
+    "raw_post": "IonQ has set a new quantum computing world record by demonstrating 99.99% two-qubit gate performance, which represents a significantly low error rate\n\n#IONQ #IONQStock #IONQNews #IONQStockNews #OxfordIonics #Quantum #QuantumComputing #QuantumComputingStocks #TechNews #QubitFidelity",
+    "gold_summary": "IonQ achieved a record-low error rate with 99.99% two-qubit gate fidelity in quantum computing.",
+    "context_required": true,
+    "search_required": true,
+    "notes": "Requires knowing what two-qubit gate fidelity means and why IonQ is significant."
+  },
+  {
+    "id": "eval_002",
+    "category": "slang_meme",
+    "url": "https://bsky.app/profile/did:plc:xmmef3rsks2uu36ec6zkgoqv/post/3lukicnjyz22h",
+    "raw_post": "There's always a Dril tweet.",
+    "gold_summary": "The author invokes 'Dril', a famous absurdist Twitter/X account, implying that any situation has a corresponding absurd or darkly humorous Dril post that eerily fits.",
+    "context_required": true,
+    "search_required": true,
+    "notes": "Requires knowing who Dril is and what 'Dril tweet' implies culturally."
+  },
+  {
+    "id": "eval_003",
+    "category": "thread_dependent",
+    "url": "https://bsky.app/profile/did:plc:llyib2qojznvswvelaiakjfp/post/3m36scpxeqj2d",
+    "raw_post": "The dilemma extends beyond theory. Agricultural sectors face \"farmaggedon\" from trade wars and high input costs, precisely the type of supply-side shock that exposes the limits of demand-side monetary policy.",
+    "gold_summary": "The author argues that central banks' demand-side tools (like interest rates) are inadequate for supply-side shocks such as trade-war-driven agricultural crises.",
+    "context_required": true,
+    "search_required": true,
+    "notes": "Requires background on monetary policy limits and trade war effects on agriculture."
+  },
+  {
+    "id": "eval_004",
+    "category": "hallucination_trap",
+    "url": "https://bsky.app/profile/did:plc:mwl743rjdh4lzg4zayqlsiec/post/3lwnyjotxxa2a",
+    "raw_post": "Meaning of #rugpull Crypto scam where the creators disappear and keep the money Some synonyms, words or similar expressions can be scamcoin,pump and dump,exit scam  .. rug pull",
+    "gold_summary": "A 'rug pull' is a crypto exit scam where developers abandon a project and abscond with investor funds; it originates from DeFi/NFT culture and is part of a broader vocabulary of crypto fraud patterns including pump-and-dump and exit scams.",
+    "context_required": true,
+    "search_required": true,
+    "notes": "Requires knowing what a rug pull is, how it differs from other crypto scams, and the DeFi/NFT context in which it became common."
+  },
+  {
+    "id": "eval_005",
+    "category": "compression",
+    "url": "https://bsky.app/profile/did:plc:767ycrlfjmddxgnxsylkfbrd/post/3meoebzphqk24",
+    "raw_post": "And maintenance? \ud83d\udc80\n\nVibe coding a prototype is awesome\n\nBut it seems deeply fraught to end up in a situation where you *need* those AI models to maintain the code they wrote",
+    "gold_summary": "The author critiques 'vibe coding' (writing code with AI assistance without fully understanding it), warning that relying on AI to maintain AI-generated code creates long-term technical debt and fragility.",
+    "context_required": true,
+    "search_required": true,
+    "notes": "Requires knowing what 'vibe coding' means and the maintenance/debt concerns it raises."
+  },
+  {
+    "id": "eval_006",
+    "category": "tech_jargon",
+    "url": "https://bsky.app/profile/did:plc:mrl42kqlguvx3u7s4lvtfd2i/post/3mddkldpjwc2i",
+    "raw_post": "It was an active social media platform in current year that hadn't fully succumbed to enshittification yet. That was really the whole appeal for me.",
+    "gold_summary": "The author praises a platform (likely Bluesky) for resisting 'enshittification' — Cory Doctorow's term for the three-stage decay cycle of internet platforms: first serving users, then advertisers, then extracting value until the experience degrades.",
+    "context_required": true,
+    "search_required": true,
+    "notes": "Requires knowing what enshittification means, who coined it, and the three-stage model of platform decay."
+  },
+  {
+    "id": "eval_007",
+    "category": "tech_context",
+    "url": "https://bsky.app/profile/did:plc:aenbdx2qavic3nazf7iz4p5y/post/3mcyq6dv6vue2",
+    "raw_post": "The Fediverse Is Growing: Why Decentralized Social Media Matters in 2026 Something interesting happened in 2024. When Twitter became X and started charging for features that used to be free, millions of users migrated to decentralized alternatives.",
+    "gold_summary": "The post describes the Fediverse — a network of federated, open-protocol social platforms (Mastodon, Bluesky, etc.) that gained users as Twitter/X enshittified, appealing to those wanting no single corporate owner controlling their data and reach.",
+    "context_required": true,
+    "search_required": true,
+    "notes": "Requires background on what the Fediverse is, ActivityPub, and why Twitter/X's changes drove migration."
+  },
+  {
+    "id": "eval_008",
+    "category": "ideology_debate",
+    "url": "https://bsky.app/profile/did:plc:pecpjko7ojqe2hz37kk2ctwj/post/3lnlzermb622j",
+    "raw_post": "We need to consider alternative models of growth, either slow growth, green growth and decoupling, post-growth or degrowth,  we need a fundamental reevaluation of consumption and capitalism. It's not going to be easy nor painless.",
+    "gold_summary": "The post argues for degrowth or post-growth economics — a school of thought contending that infinite GDP growth is ecologically unsustainable, and that wealthy societies should reduce consumption and production to stay within planetary boundaries.",
+    "context_required": true,
+    "search_required": true,
+    "notes": "Requires knowing what degrowth, post-growth, and green growth mean as economic frameworks and how they differ from mainstream growth economics."
+  },
+  {
+    "id": "eval_009",
+    "category": "ai_jargon",
+    "url": "https://bsky.app/profile/did:plc:r3v7vp5jq7ufw6mgcnv5x2do/post/3lzxpqxp4ek2z",
+    "raw_post": "LUMINA improves hallucination detection in retrieval\u2011augmented generation, showing up to a 13% AUROC gain on the HalluRAG benchmark and working across four open\u2011source LLMs.",
+    "gold_summary": "The post describes a research result about reducing LLM hallucinations in RAG systems — where a model retrieves external documents before answering, but may still fabricate facts. AUROC is an accuracy metric; HalluRAG is a benchmark for this problem.",
+    "context_required": true,
+    "search_required": true,
+    "notes": "Dense AI research jargon: RAG, hallucination, AUROC, benchmarks. Requires explaining each term and why hallucination in RAG is a key open problem."
+  },
+  {
+    "id": "eval_010",
+    "category": "ai_community",
+    "url": "https://bsky.app/profile/did:plc:acy4bywuzyjw2lro2veqmnfi/post/3lh5d4osz422n",
+    "raw_post": "DeepSeek Outstrips Meta and Mistral To Lead Open-Source AI Race\n\nDeepSeek has become the leading open-source AI model developer, surpassing Meta's Llama and Mistral, with the release of its latest model V3, which offers significant cost efficiencies.\n\n#deepseek #meta #mistral",
+    "gold_summary": "DeepSeek is a Chinese AI lab that released DeepSeek V3, an open-weight model that matched or exceeded GPT-4-class performance at a fraction of the training cost, surprising the AI community and intensifying debate about whether expensive frontier models are necessary.",
+    "context_required": true,
+    "search_required": true,
+    "notes": "Requires knowing who DeepSeek is, why their cost efficiency was surprising, and how they compare to Meta Llama and Mistral in the open-source AI landscape."
+  }
+]
